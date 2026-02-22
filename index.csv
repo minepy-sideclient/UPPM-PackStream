@@ -2,3 +2,4 @@ name,version,url,checksum,description,author
 test,1.0,https://github.com/minepy-sideclient/UPPM-PackStream/raw/main/C:\Users\Main\Downloads\UPPM/logo.png,8f7ce8c16ec4ce8afc25752430a8786b58ca1683ce2b9946b20e1df18ccbf52b,test,Minepy(tm)
 ed,de,https://github.com/minepy-sideclient/UPPM-PackStream/raw/main/C:\Users\Main\Downloads\UPPM/logo1.png,6de4212ef32792bbac4d30c001241703a5a13a39e552b715b7d25772e0548108,de,minepy(tm)
 fr,123,https://github.com/minepy-sideclient/UPPM-PackStream/raw/main/src/trialxxx/logo1.png,6de4212ef32792bbac4d30c001241703a5a13a39e552b715b7d25772e0548108,lesex,trial(tm),src/trialxxx/logo1.png
+UPPM_0.1.2,0.1.2,https://github.com/minepy-sideclient/UPPM-PackStream/raw/main/src/try(UPPM)/UPPM_bash.exe,b9245446f52d4736bfcdcd9440890b2069ac4df4a35b1ba4be196e3acca02739,this is a test please donot install UPPM from here!,MinePY(TM),src/try(UPPM)/UPPM_bash.exe
